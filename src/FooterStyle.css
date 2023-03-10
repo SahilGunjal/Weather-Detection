@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap");
+.footer-design {
+  font-size: 15px;
+  margin-top: 200px !important;
+  font-family: "PT Sans Caption", sans-serif;
+  position: fixed !important;
+  left: 0 !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  background: #1b1a1a !important;
+  color: white !important;
+  text-align: center !important;
+  line-height: 10px;
+  padding-top: 15px !important;
+}
